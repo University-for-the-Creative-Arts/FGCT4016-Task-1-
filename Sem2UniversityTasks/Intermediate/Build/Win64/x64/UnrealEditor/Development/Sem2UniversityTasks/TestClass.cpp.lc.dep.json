@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\sacha\\downloads\\timelinetyrantsonline\\ttonline\\fgct4016-task-1\\sem2universitytasks\\source\\sem2universitytasks\\testclass.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\sacha\\downloads\\timelinetyrantsonline\\ttonline\\fgct4016-task-1\\sem2universitytasks\\intermediate\\build\\win64\\x64\\sem2universitytaskseditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.valexpapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\sacha\\downloads\\timelinetyrantsonline\\ttonline\\fgct4016-task-1\\sem2universitytasks\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\sem2universitytasks\\definitions.sem2universitytasks.h",
+            "c:\\users\\sacha\\downloads\\timelinetyrantsonline\\ttonline\\fgct4016-task-1\\sem2universitytasks\\source\\sem2universitytasks\\testclass.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

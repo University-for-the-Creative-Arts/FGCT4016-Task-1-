@@ -1,0 +1,14 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-Sem2UniversityTasks.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:/Users/SACHA/Downloads/timelinetyrantsonline/TTOnline/FGCT4016-Task-1/Sem2UniversityTasks/Intermediate/Build/Win64/x64/Sem2UniversityTasksEditor/Development/UnrealEd/SharedPCH.UnrealEd.Project.ValApi.ValExpApi.Cpp20.h.obj"
+"C:/Users/SACHA/Downloads/timelinetyrantsonline/TTOnline/FGCT4016-Task-1/Sem2UniversityTasks/Intermediate/Build/Win64/x64/UnrealEditor/Development/Sem2UniversityTasks/Sem2UniversityTasks.cpp.obj"
+"C:/Users/SACHA/Downloads/timelinetyrantsonline/TTOnline/FGCT4016-Task-1/Sem2UniversityTasks/Intermediate/Build/Win64/x64/UnrealEditor/Development/Sem2UniversityTasks/TestClass.cpp.obj"
+"C:/Users/SACHA/Downloads/timelinetyrantsonline/TTOnline/FGCT4016-Task-1/Sem2UniversityTasks/Intermediate/Build/Win64/x64/UnrealEditor/Development/Sem2UniversityTasks/PerModuleInline.gen.cpp.obj"
+"C:/Users/SACHA/Downloads/timelinetyrantsonline/TTOnline/FGCT4016-Task-1/Sem2UniversityTasks/Intermediate/Build/Win64/x64/UnrealEditor/Development/Sem2UniversityTasks/Default.rc2.res"
+/OUT:"C:/Users/SACHA/Downloads/timelinetyrantsonline/TTOnline/FGCT4016-Task-1/Sem2UniversityTasks/Intermediate/Build/Win64/x64/UnrealEditor/Development/Sem2UniversityTasks/UnrealEditor-Sem2UniversityTasks.lib"

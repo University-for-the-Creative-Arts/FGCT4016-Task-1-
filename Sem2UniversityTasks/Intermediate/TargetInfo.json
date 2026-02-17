@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "Sem2UniversityTasks",
+			"Path": "..\\Source\\Sem2UniversityTasks.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "Sem2UniversityTasksEditor",
+			"Path": "..\\Source\\Sem2UniversityTasksEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
