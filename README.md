@@ -41,6 +41,8 @@ The project now functions where once the player loads in the to the level, per t
 
 ### 3.1 Video Demonstration
 
+https://youtu.be/8nLJhfOrgTs
+
 ## 4. Bibliography
 
 ## 5. AI Use Declaration
